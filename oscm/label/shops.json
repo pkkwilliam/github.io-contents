@@ -2,17 +2,17 @@
     {
         "openingHour": "周一至周日 1:00PM - 11:00PM",
         "shopAddress": "澳門俾利喇街177-193號龍園躍龍閣地下BW鋪",
-        "shopFrontImage": "",
-        "shopMapImage": "",
+        "shopFrontImage": "/assert/shops/1135-shop-front.jpg",
+        "shopMapImage": "/assert/shops/1135-shop-map.jpg",
         "shopName": "果然堅環球水果專賣店",
         "shopNumber": "1135",
-        "shopPhoneNumber": "28423399"
+        "shopPhoneNumber": "66631910"
     },
     {
         "openingHour": "周一至周日 9:30AM - 7:30PM",
         "shopAddress": "澳門勞動節大馬路廣福祥花園第四座地下BD舖",
-        "shopFrontImage": "",
-        "shopMapImage": "",
+        "shopFrontImage": "/assert/shops/1135-shop-front.jpg",
+        "shopMapImage": "/assert/shops/1135-shop-map.png",
         "shopName": "賞買就買", 
         "shopNumber": "1136",
         "shopPhoneNumber": "65230487"
@@ -20,8 +20,8 @@
     {
         "openingHour": "周一至周日 1:00PM - 7:30PM",
         "shopAddress": "澳門馬場大馬路百利新村地下281號N舖",
-        "shopFrontImage": "",
-        "shopMapImage": "",
+        "shopFrontImage": "/assert/shops/1138-shop-front.jpg",
+        "shopMapImage": "/assert/shops/1138-shop-map.jpg",
         "shopName": "景泰地產",
         "shopNumber": "1138",
         "shopPhoneNumber": "28423399"

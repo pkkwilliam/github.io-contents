@@ -1,0 +1,17 @@
+{
+    "baseUrl": "https://raw.githubusercontent.com/pkkwilliam/github.io-contents/master/oscm/assert/eyeCatchs",
+    "images": [
+        {
+            "onClick": "",
+            "url": "eye_catch_1.png"
+        },
+        {
+            "onClick": "",
+            "url": "eye_catch_2.png"
+        },
+        {
+            "onClick": "",
+            "url": "eye_catch_3.png"
+        }
+    ]
+}

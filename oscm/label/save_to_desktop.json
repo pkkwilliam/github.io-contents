@@ -1,22 +1,7 @@
 {
     "baseUrl": "https://raw.githubusercontent.com/pkkwilliam/github.io-contents/master/oscm/assert/save_to_desktop",
-    "instructions": {
-        "chrome": {
-            "image": {
-                "url": "/chrome.png"
-            }
-        },
-        "safari": {
-            "image": {
-                "position": "BOTTOM",
-                "url": "/safari.png"
-            },
-            "instruction": ""
-        },
-        "wechat": {
-            "image": {
-                "url": "/wechat.png"
-            }
-        }
-    }
+    "appImage": "/app.png", 
+    "chromeImage": "/chrome.png",
+    "safariImage": "/safari.png",
+    "wechatImage": "/wechat.png"
 }

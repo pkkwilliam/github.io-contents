@@ -3,15 +3,23 @@
     "images": [
         {
             "onClick": "",
-            "url": "/eye_catch_1.png"
+            "url": "/chinese_new_year_promotion.png"
         },
         {
             "onClick": "",
-            "url": "/eye_catch_4.png"
+            "url": "/our_2_dollor.png"
         },
         {
             "onClick": "TUTORIAL",
-            "url": "/eye_catch_5.png"
+            "url": "/tutorial.png"
+        },
+        {
+            "onClick": "INSTALL",
+            "url": "/install_app.png"
+        },
+        {
+            "onClick": "",
+            "url": "/72_hour_storage.png"
         }
     ]
 }

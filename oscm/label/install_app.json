@@ -2,17 +2,20 @@
     "androidAPK": {
         "contentUrl": "https://raw.githubusercontent.com/pkkwilliam/github.io-contents/master/oscm/assert/install_app/picktb.apk",
         "description": "安卓下載",
-        "imageUrl": "/install_from_apk.png"
+        "imageUrl": "/install_from_apk.png",
+        "type": "ANDROID_APK"
     },
     "ios": {
         "contentUrl": "",
         "description": "準備上架",
-        "imageUrl": "/apple_store.png"
+        "imageUrl": "/apple_store.png",
+        "type": "IOS_APP"
     },
     "googlePlayStore": {
         "contentUrl": "",
         "description": "準備上架",
-        "imageUrl": "/google_play_store.png"
+        "imageUrl": "/google_play_store.png",
+        "type": "GOOGLE_PLAY_STORE_APP"
     },
     "baseUrl": "https://raw.githubusercontent.com/pkkwilliam/github.io-contents/master/oscm/assert/install_app"
 }

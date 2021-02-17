@@ -7,15 +7,15 @@
         },
         {
             "onClick": "",
+            "url": "/larger_than_120_substract.png"
+        },
+        {
+            "onClick": "",
             "url": "/our_2_dollor.png"
         },
         {
             "onClick": "TUTORIAL",
             "url": "/tutorial.png"
-        },
-        {
-            "onClick": "INSTALL",
-            "url": "/install_app.png"
         },
         {
             "onClick": "",

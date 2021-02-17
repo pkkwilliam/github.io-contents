@@ -7,13 +7,13 @@
     },
     "ios": {
         "contentUrl": "",
-        "description": "準備上架",
+        "description": "即將上架",
         "imageUrl": "/apple_store.png",
         "type": "IOS_APP"
     },
     "googlePlayStore": {
         "contentUrl": "",
-        "description": "準備上架",
+        "description": "即將上架",
         "imageUrl": "/google_play_store.png",
         "type": "GOOGLE_PLAY_STORE_APP"
     },

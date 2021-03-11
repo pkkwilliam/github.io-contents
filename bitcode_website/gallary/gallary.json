@@ -1,0 +1,10 @@
+{
+    "baseUrl": "https://raw.githubusercontent.com/pkkwilliam/github.io-contents/master/bitcode_website/gallary",
+    "cases": [
+        {
+            "name": "澳提 | PickTB",
+            "detail": "澳提代收管理系統是為澳門龐志空運速递有限公司專門開發的淘寶代收平可快速幫助物流公司建立多功能及健全的快递業務，其中包括手機應用，物流管理，貨物追蹤，難件處理，打印運單...\n此系統旨在為物流公司及普通商戶創立完善的共赢平台，互惠互利，通過社會化平台分享閒置實物資源或認知盈餘，以低於專業性組織者的邊際成本提供服務並獲得收入的經濟現象。",
+            "images": ["/picktb_admin_1.png", "/picktb_client_1.png", "/picktb_client_2.png", "/picktb_client_3.png", "/picktb_client_4.png", "picktb_shop_1.png"]
+        }
+    ]
+}

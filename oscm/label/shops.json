@@ -26,4 +26,14 @@
         "shopNumber": "1138",
         "shopPhoneNumber": "28423399"
     }
+    ,
+    {
+        "openingHour": "周一至周五10:00AM - 1:00PM 2:00PM - 6:00PM  及周六上午",
+        "shopAddress": "澳門南灣里5號海天大廈地下",
+        "shopFrontImage": "/assert/shops/1162-shop-front.jpg",
+        "shopMapImage": "/assert/shops/1162-shop-map.jpg",
+        "shopName": "科技電腦有限公司",
+        "shopNumber": "1162",
+        "shopPhoneNumber": "28324142"
+    }
 ]

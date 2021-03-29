@@ -1,5 +1,6 @@
 [
   {
+    "active": true,
     "openingHour": "周一至周五：12:00PM - 20:00PM 周六、周日: 12:00PM - 16:00PM",
     "shopAddress": "馬交石炮台馬路(建設花園旁)",
     "images": [
@@ -9,12 +10,13 @@
       "/assert/shops/1131/1131-4.png",
       "/assert/shops/1131/1131-5.png"
     ],
-    "shopName": "(建設花園旁)",
+    "shopName": "建設花園旁",
     "shopNumber": "1131",
     "shopPhoneNumber": "66607076",
     "wechatId": ""
   },
   {
+    "active": true,
     "openingHour": "周一至周五 9:30PM - 5:30PM",
     "shopAddress": "澳門漁翁街166號永好工業大廈7樓E-G座",
     "iamges": [],
@@ -24,6 +26,7 @@
     "wechatId": "PickTB"
   },
   {
+    "active": true,
     "openingHour": "周一至周日 1:00PM - 11:00PM",
     "shopAddress": "澳門俾利喇街177-193號龍園躍龍閣地下BW鋪",
     "iamges": [
@@ -36,6 +39,7 @@
     "wechatId": ""
   },
   {
+    "active": true,
     "openingHour": "周一至周日 9:30AM - 7:30PM",
     "shopAddress": "澳門勞動節大馬路廣福祥花園第四座地下BD舖",
     "images": [
@@ -48,6 +52,7 @@
     "wechatId": ""
   },
   {
+    "active": true,
     "openingHour": "周一至周六10:00AM - 08:00PM 周日10:00AM - 07:00PM",
     "shopAddress": "澳門菜園路242號百利新村地下U座",
     "images": [],
@@ -57,6 +62,7 @@
     "wechatId": "wxid_pbpf3bhlx9oa12"
   },
   {
+    "active": true,
     "openingHour": "周一至周日 9:00AM - 09:00PM",
     "shopAddress": "沙梨頭海邊街49-51號新軒閣地下B",
     "images": [
@@ -70,6 +76,7 @@
     "wechatId": "qing65558742"
   },
   {
+    "active": true,
     "openingHour": "周一至周六 1:00PM - 08:00PM",
     "shopAddress": "澳門新馬路草堆街42號",
     "images": [
@@ -84,6 +91,7 @@
     "wechatId": "wxid_8ithzod1e5cc22"
   },
   {
+    "active": true,
     "openingHour": "周一至周日 10:00AM - 08:00PM",
     "shopAddress": "澳門青洲河邊馬路美樂花園側地下S/N倉庫澳門中源貨運",
     "images": [
@@ -97,6 +105,7 @@
     "wechatId": "wxid_g8ympk5snir522"
   },
   {
+    "active": true,
     "openingHour": "周一至周五10:00AM - 1:00PM 2:00PM - 6:00PM  及周六上午",
     "shopAddress": "澳門南灣里5號海天大廈地下",
     "images": [],
@@ -106,6 +115,7 @@
     "wechatId": ""
   },
   {
+    "active": true,
     "openingHour": "周一至周六 2:00PM - 09:00PM 周日: 2:00PM - 06:00PM",
     "shopAddress": "澳門如意巷31號天富樓地下B鋪",
     "images": [
@@ -119,6 +129,7 @@
     "wechatId": "sanchan8145"
   },
   {
+    "active": true,
     "openingHour": "稍後補全",
     "shopAddress": "澳門龍頭左巷15A號地下宏富大廈地下D舖",
     "images": [],

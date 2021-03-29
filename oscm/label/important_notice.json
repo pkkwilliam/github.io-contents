@@ -2,7 +2,7 @@
   {
     "onClick": "ADDRESS_GENERATOR",
     "date": "2020/03/29",
-    "detail": "為提供更多的門店選擇，我們搬倉啦，收費一樣，更多選擇，馬上去生成新的收貨址。",
+    "detail": "<p>為提供更多的門店選擇，我們搬倉啦，收費一樣，更多選擇，馬上生成新的<a href=\"/addressGenerator\">收貨地址<a/></p>",
     "header": "搬倉啦"
   }
 ]

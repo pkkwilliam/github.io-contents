@@ -2,7 +2,7 @@
   {
     "onClick": "ADDRESS_GENERATOR",
     "date": "2020/03/29",
-    "detail": "<p>為提供更多的門店選擇，我們搬倉啦，收費一樣，更多選擇，馬上生成新的<a href=\"/addressGenerator\">收貨地址<a/></p>",
+    "detail": "為了提供更方便快捷的服務，澳提現與中源物流正式合作，價格不變，代收點更多！請點擊生成新<a href=\"/addressGenerator\">收貨地址<a/>",
     "header": "搬倉啦"
   }
 ]

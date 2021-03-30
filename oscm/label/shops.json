@@ -55,7 +55,12 @@
     "active": true,
     "openingHour": "周一至周六10:00AM - 08:00PM 周日10:00AM - 07:00PM",
     "shopAddress": "澳門菜園路242號百利新村地下U座",
-    "images": [],
+    "images": [
+      "/assert/shops/1139/1139-1.jpeg",
+      "/assert/shops/1139/1139-2.jpeg",
+      "/assert/shops/1139/1139-3.jpeg",
+      "/assert/shops/1139/1139-3.jpeg"
+    ],
     "shopName": "百利新村店",
     "shopNumber": "1139",
     "shopPhoneNumber": "62015544",

@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "onClick": "ADDRESS_GENERATOR",
+    "date": "2020/03/29",
+    "detail": "我地搬倉啦！請點擊生成新<a href=\"/addressGenerator\">收貨地址<a/>",
+    "header": "搬倉啦"
+  }
+]

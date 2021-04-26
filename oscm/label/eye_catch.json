@@ -1,25 +1,25 @@
 {
-    "baseUrl": "https://raw.githubusercontent.com/pkkwilliam/github.io-contents/master/oscm/assert/eye_catches",
-    "images": [
-        {
-            "onClick": "",
-            "url": "/chinese_new_year_promotion.png"
-        },
-        {
-            "onClick": "",
-            "url": "/larger_than_120_substract.png"
-        },
-        {
-            "onClick": "",
-            "url": "/our_2_dollor.png"
-        },
-        {
-            "onClick": "TUTORIAL",
-            "url": "/tutorial.png"
-        },
-        {
-            "onClick": "",
-            "url": "/72_hour_storage.png"
-        }
-    ]
+  "baseUrl": "https://raw.githubusercontent.com/pkkwilliam/github.io-contents/master/oscm/assert/eye_catches",
+  "images": [
+    {
+      "onClick": "",
+      "url": "/join_us.png"
+    },
+    {
+      "onClick": "",
+      "url": "/larger_than_120_substract.png"
+    },
+    {
+      "onClick": "",
+      "url": "/our_2_dollor.png"
+    },
+    {
+      "onClick": "TUTORIAL",
+      "url": "/tutorial.png"
+    },
+    {
+      "onClick": "",
+      "url": "/72_hour_storage.png"
+    }
+  ]
 }

@@ -3,7 +3,7 @@
   "images": [
     {
       "onClick": "DELIVERY",
-      "url": "/delivery"
+      "url": "/delivery.png"
     },
     {
       "onClick": "",

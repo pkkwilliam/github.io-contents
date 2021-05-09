@@ -2,6 +2,10 @@
   "baseUrl": "https://raw.githubusercontent.com/pkkwilliam/github.io-contents/master/oscm/assert/eye_catches",
   "images": [
     {
+      "onClick": "DELIVERY",
+      "url": "/delivery"
+    },
+    {
       "onClick": "",
       "url": "/1121_shop_advertise.png"
     },

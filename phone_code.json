@@ -1,0 +1,806 @@
+[
+  {
+    "$id": "2",
+    "Code": "853",
+    "Name": "澳門特別行政區",
+    "NameEn": "Macao, SAR"
+  },
+  {
+    "$id": "3",
+    "Code": "86",
+    "Name": "中國",
+    "NameEn": "China"
+  },
+  {
+    "$id": "4",
+    "Code": "852",
+    "Name": "香港特別行政區",
+    "NameEn": "Hong Kong, SAR "
+  },
+  {
+    "$id": "5",
+    "Code": "886",
+    "Name": "台灣地區",
+    "NameEn": "Taiwan region"
+  },
+  {
+    "$id": "6",
+    "Code": "93",
+    "Name": "阿富汗",
+    "NameEn": "Afghanistan"
+  },
+  {
+    "$id": "7",
+    "Code": "244",
+    "Name": "安哥拉",
+    "NameEn": "Angola"
+  },
+  {
+    "$id": "8",
+    "Code": "54",
+    "Name": "阿根廷",
+    "NameEn": "Argentina"
+  },
+  {
+    "$id": "9",
+    "Code": "61",
+    "Name": "澳洲",
+    "NameEn": "Australia"
+  },
+  {
+    "$id": "10",
+    "Code": "43",
+    "Name": "奧地利",
+    "NameEn": "Austria"
+  },
+  {
+    "$id": "11",
+    "Code": "994",
+    "Name": "阿塞拜疆 ",
+    "NameEn": "Azerbaijan"
+  },
+  {
+    "$id": "12",
+    "Code": "973",
+    "Name": "巴林",
+    "NameEn": "Bahrain"
+  },
+  {
+    "$id": "13",
+    "Code": "880",
+    "Name": "孟加拉",
+    "NameEn": "Bangladesh"
+  },
+  {
+    "$id": "14",
+    "Code": "375",
+    "Name": "白俄羅斯",
+    "NameEn": "Belarus"
+  },
+  {
+    "$id": "15",
+    "Code": "32",
+    "Name": "比利時",
+    "NameEn": "Belgium"
+  },
+  {
+    "$id": "16",
+    "Code": "975",
+    "Name": "不丹",
+    "NameEn": "Bhutan"
+  },
+  {
+    "$id": "17",
+    "Code": "591",
+    "Name": "玻利維亞",
+    "NameEn": "Bolivia"
+  },
+  {
+    "$id": "18",
+    "Code": "55",
+    "Name": "巴西",
+    "NameEn": "Brazil"
+  },
+  {
+    "$id": "19",
+    "Code": "673",
+    "Name": "汶萊",
+    "NameEn": "Brunei"
+  },
+  {
+    "$id": "20",
+    "Code": "359",
+    "Name": "保加利亞",
+    "NameEn": "Bulgaria"
+  },
+  {
+    "$id": "21",
+    "Code": "855",
+    "Name": "柬埔寨",
+    "NameEn": "Cambodia"
+  },
+  {
+    "$id": "22",
+    "Code": "237",
+    "Name": "喀麥隆",
+    "NameEn": "Cameroon"
+  },
+  {
+    "$id": "23",
+    "Code": "1",
+    "Name": "加拿大 / 美國",
+    "NameEn": "Canada / United States of America"
+  },
+  {
+    "$id": "24",
+    "Code": "238",
+    "Name": "佛得角",
+    "NameEn": "Cape Verde"
+  },
+  {
+    "$id": "25",
+    "Code": "236",
+    "Name": "中非共和國",
+    "NameEn": "Central African Republic"
+  },
+  {
+    "$id": "26",
+    "Code": "56",
+    "Name": "智利",
+    "NameEn": "Chile"
+  },
+  {
+    "$id": "27",
+    "Code": "57",
+    "Name": "哥倫比亞",
+    "NameEn": "Colombia"
+  },
+  {
+    "$id": "28",
+    "Code": "242",
+    "Name": "剛果",
+    "NameEn": "Congo "
+  },
+  {
+    "$id": "29",
+    "Code": "506",
+    "Name": "哥斯達黎加",
+    "NameEn": "Costa Rica"
+  },
+  {
+    "$id": "30",
+    "Code": "385",
+    "Name": "克羅地亞",
+    "NameEn": "Croatia"
+  },
+  {
+    "$id": "31",
+    "Code": "53",
+    "Name": "古巴",
+    "NameEn": "Cuba"
+  },
+  {
+    "$id": "32",
+    "Code": "420",
+    "Name": "捷克",
+    "NameEn": "Czech Republic"
+  },
+  {
+    "$id": "33",
+    "Code": "850",
+    "Name": "朝鮮人民民主共和國",
+    "NameEn": "Democratic People's Republic of Korea"
+  },
+  {
+    "$id": "34",
+    "Code": "243",
+    "Name": "剛果民主共和國",
+    "NameEn": "Democratic Republic of Congo"
+  },
+  {
+    "$id": "35",
+    "Code": "45",
+    "Name": "丹麥",
+    "NameEn": "Denmark"
+  },
+  {
+    "$id": "36",
+    "Code": "593",
+    "Name": "厄瓜多爾",
+    "NameEn": "Ecuador"
+  },
+  {
+    "$id": "37",
+    "Code": "20",
+    "Name": "埃及",
+    "NameEn": "Egypt"
+  },
+  {
+    "$id": "38",
+    "Code": "372",
+    "Name": "愛沙尼亞",
+    "NameEn": "Estonia"
+  },
+  {
+    "$id": "39",
+    "Code": "251",
+    "Name": "埃塞俄比亞 ",
+    "NameEn": "Ethiopia"
+  },
+  {
+    "$id": "40",
+    "Code": "679",
+    "Name": "斐濟",
+    "NameEn": "Fiji"
+  },
+  {
+    "$id": "41",
+    "Code": "358",
+    "Name": "芬蘭",
+    "NameEn": "Finland"
+  },
+  {
+    "$id": "42",
+    "Code": "33",
+    "Name": "法國",
+    "NameEn": "France"
+  },
+  {
+    "$id": "43",
+    "Code": "49",
+    "Name": "德國",
+    "NameEn": "Germany"
+  },
+  {
+    "$id": "44",
+    "Code": "233",
+    "Name": "迦納",
+    "NameEn": "Ghana"
+  },
+  {
+    "$id": "45",
+    "Code": "30",
+    "Name": "希臘",
+    "NameEn": "Greece"
+  },
+  {
+    "$id": "46",
+    "Code": "299",
+    "Name": "格陵蘭",
+    "NameEn": "Greenland"
+  },
+  {
+    "$id": "47",
+    "Code": "1671",
+    "Name": "關島",
+    "NameEn": "Guam"
+  },
+  {
+    "$id": "48",
+    "Code": "502",
+    "Name": "危地馬拉",
+    "NameEn": "Guatemala"
+  },
+  {
+    "$id": "49",
+    "Code": "224",
+    "Name": "幾內亞",
+    "NameEn": "Guinea"
+  },
+  {
+    "$id": "50",
+    "Code": "509",
+    "Name": "海地",
+    "NameEn": "Haiti"
+  },
+  {
+    "$id": "51",
+    "Code": "379",
+    "Name": "梵諦岡",
+    "NameEn": "Holy See"
+  },
+  {
+    "$id": "52",
+    "Code": "504",
+    "Name": "洪都拉斯",
+    "NameEn": "Honduras"
+  },
+  {
+    "$id": "53",
+    "Code": "36",
+    "Name": "匈牙利",
+    "NameEn": "Hungary"
+  },
+  {
+    "$id": "54",
+    "Code": "354",
+    "Name": "冰島",
+    "NameEn": "Iceland"
+  },
+  {
+    "$id": "55",
+    "Code": "91",
+    "Name": "印度",
+    "NameEn": "India"
+  },
+  {
+    "$id": "56",
+    "Code": "62",
+    "Name": "印度尼西亞",
+    "NameEn": "Indonesia"
+  },
+  {
+    "$id": "57",
+    "Code": "98",
+    "Name": "伊朗",
+    "NameEn": "Iran (Islamic Republic of)"
+  },
+  {
+    "$id": "58",
+    "Code": "964",
+    "Name": "伊拉克",
+    "NameEn": "Iraq"
+  },
+  {
+    "$id": "59",
+    "Code": "353",
+    "Name": "愛爾蘭",
+    "NameEn": "Ireland"
+  },
+  {
+    "$id": "60",
+    "Code": "972",
+    "Name": "以色列",
+    "NameEn": "Israel"
+  },
+  {
+    "$id": "61",
+    "Code": "39",
+    "Name": "意大利",
+    "NameEn": "Italy"
+  },
+  {
+    "$id": "62",
+    "Code": "225",
+    "Name": "象牙海岸",
+    "NameEn": "Ivory Coast"
+  },
+  {
+    "$id": "63",
+    "Code": "1876",
+    "Name": "牙買加",
+    "NameEn": "Jamaica"
+  },
+  {
+    "$id": "64",
+    "Code": "81",
+    "Name": "日本",
+    "NameEn": "Japan"
+  },
+  {
+    "$id": "65",
+    "Code": "962",
+    "Name": "約旦",
+    "NameEn": "Jordan"
+  },
+  {
+    "$id": "66",
+    "Code": "7",
+    "Name": "哈薩克斯坦",
+    "NameEn": "Kazakhstan"
+  },
+  {
+    "$id": "67",
+    "Code": "254",
+    "Name": "肯尼亞",
+    "NameEn": "Kenya"
+  },
+  {
+    "$id": "68",
+    "Code": "965",
+    "Name": "科威特",
+    "NameEn": "Kuwait"
+  },
+  {
+    "$id": "69",
+    "Code": "996",
+    "Name": "吉爾吉斯",
+    "NameEn": "Kyrgyzstan"
+  },
+  {
+    "$id": "70",
+    "Code": "856",
+    "Name": "老撾",
+    "NameEn": "Laos"
+  },
+  {
+    "$id": "71",
+    "Code": "371",
+    "Name": "拉脫維亞",
+    "NameEn": "Latvia"
+  },
+  {
+    "$id": "72",
+    "Code": "218",
+    "Name": "利比亞",
+    "NameEn": "Libyan Arab Jamahiriya"
+  },
+  {
+    "$id": "73",
+    "Code": "370",
+    "Name": "立陶宛",
+    "NameEn": "Lithuania"
+  },
+  {
+    "$id": "74",
+    "Code": "352",
+    "Name": "盧森堡",
+    "NameEn": "Luxembourg"
+  },
+  {
+    "$id": "75",
+    "Code": "389",
+    "Name": "馬其頓",
+    "NameEn": "Macedonia"
+  },
+  {
+    "$id": "76",
+    "Code": "261",
+    "Name": "馬達加斯加",
+    "NameEn": "Madagascar"
+  },
+  {
+    "$id": "77",
+    "Code": "60",
+    "Name": "馬來西亞",
+    "NameEn": "Malaysia"
+  },
+  {
+    "$id": "78",
+    "Code": "960",
+    "Name": "馬爾代夫",
+    "NameEn": "Maldives"
+  },
+  {
+    "$id": "79",
+    "Code": "223",
+    "Name": "馬里",
+    "NameEn": "Mali"
+  },
+  {
+    "$id": "80",
+    "Code": "52",
+    "Name": "墨西哥",
+    "NameEn": "Mexico"
+  },
+  {
+    "$id": "81",
+    "Code": "377",
+    "Name": "摩納哥",
+    "NameEn": "Monaco"
+  },
+  {
+    "$id": "82",
+    "Code": "976",
+    "Name": "蒙古",
+    "NameEn": "Mongolia"
+  },
+  {
+    "$id": "83",
+    "Code": "212",
+    "Name": "摩洛哥",
+    "NameEn": "Morocco"
+  },
+  {
+    "$id": "84",
+    "Code": "258",
+    "Name": "莫桑比克",
+    "NameEn": "Mozambique"
+  },
+  {
+    "$id": "85",
+    "Code": "95",
+    "Name": "緬甸",
+    "NameEn": "Myanmar"
+  },
+  {
+    "$id": "86",
+    "Code": "977",
+    "Name": "尼泊爾",
+    "NameEn": "Nepal"
+  },
+  {
+    "$id": "87",
+    "Code": "31",
+    "Name": "荷蘭",
+    "NameEn": "Netherlands"
+  },
+  {
+    "$id": "88",
+    "Code": "64",
+    "Name": "新西蘭",
+    "NameEn": "New Zealand"
+  },
+  {
+    "$id": "89",
+    "Code": "227",
+    "Name": "尼日爾 ",
+    "NameEn": "Niger"
+  },
+  {
+    "$id": "90",
+    "Code": "234",
+    "Name": "尼日利亞",
+    "NameEn": "Nigeria"
+  },
+  {
+    "$id": "91",
+    "Code": "47",
+    "Name": "挪威",
+    "NameEn": "Norway"
+  },
+  {
+    "$id": "92",
+    "Code": "968",
+    "Name": "阿曼",
+    "NameEn": "Oman"
+  },
+  {
+    "$id": "93",
+    "Code": "92",
+    "Name": "巴基斯坦",
+    "NameEn": "Pakistan"
+  },
+  {
+    "$id": "94",
+    "Code": "680",
+    "Name": "帛琉",
+    "NameEn": "Palau"
+  },
+  {
+    "$id": "95",
+    "Code": "507",
+    "Name": "巴拿馬",
+    "NameEn": "Panama"
+  },
+  {
+    "$id": "96",
+    "Code": "595",
+    "Name": "巴拉圭",
+    "NameEn": "Paraguay"
+  },
+  {
+    "$id": "97",
+    "Code": "51",
+    "Name": "秘魯",
+    "NameEn": "Peru"
+  },
+  {
+    "$id": "98",
+    "Code": "63",
+    "Name": "菲律賓",
+    "NameEn": "Philippines"
+  },
+  {
+    "$id": "99",
+    "Code": "48",
+    "Name": "波蘭",
+    "NameEn": "Poland"
+  },
+  {
+    "$id": "100",
+    "Code": "351",
+    "Name": "葡萄牙",
+    "NameEn": "Portugal"
+  },
+  {
+    "$id": "101",
+    "Code": "974",
+    "Name": "卡塔爾",
+    "NameEn": "Qatar"
+  },
+  {
+    "$id": "102",
+    "Code": "40",
+    "Name": "羅馬尼亞",
+    "NameEn": "Romania"
+  },
+  {
+    "$id": "103",
+    "Code": "7",
+    "Name": "俄羅斯",
+    "NameEn": "Russia"
+  },
+  {
+    "$id": "104",
+    "Code": "250",
+    "Name": "盧旺達",
+    "NameEn": "Rwanda"
+  },
+  {
+    "$id": "105",
+    "Code": "966",
+    "Name": "沙特阿拉伯",
+    "NameEn": "Saudi Arabia"
+  },
+  {
+    "$id": "106",
+    "Code": "221",
+    "Name": "塞內加爾",
+    "NameEn": "Senegal"
+  },
+  {
+    "$id": "107",
+    "Code": "381",
+    "Name": "塞爾維亞和黑山",
+    "NameEn": "Serbia and Montenegro "
+  },
+  {
+    "$id": "108",
+    "Code": "65",
+    "Name": "新加坡",
+    "NameEn": "Singapore"
+  },
+  {
+    "$id": "109",
+    "Code": "421",
+    "Name": "斯洛伐克",
+    "NameEn": "Slovakia"
+  },
+  {
+    "$id": "110",
+    "Code": "386",
+    "Name": "斯洛文尼亞",
+    "NameEn": "Slovenia"
+  },
+  {
+    "$id": "111",
+    "Code": "27",
+    "Name": "南非",
+    "NameEn": "South Africa"
+  },
+  {
+    "$id": "112",
+    "Code": "82",
+    "Name": "韓國",
+    "NameEn": "South Korea"
+  },
+  {
+    "$id": "113",
+    "Code": "34",
+    "Name": "西班牙",
+    "NameEn": "Spain"
+  },
+  {
+    "$id": "114",
+    "Code": "94",
+    "Name": "斯里蘭卡",
+    "NameEn": "Sri Lanka"
+  },
+  {
+    "$id": "115",
+    "Code": "249",
+    "Name": "蘇丹",
+    "NameEn": "Sudan"
+  },
+  {
+    "$id": "116",
+    "Code": "46",
+    "Name": "瑞典",
+    "NameEn": "Sweden"
+  },
+  {
+    "$id": "117",
+    "Code": "41",
+    "Name": "瑞士",
+    "NameEn": "Switzerland"
+  },
+  {
+    "$id": "118",
+    "Code": "255",
+    "Name": "坦桑尼亞",
+    "NameEn": "Tanzania"
+  },
+  {
+    "$id": "119",
+    "Code": "66",
+    "Name": "泰國",
+    "NameEn": "Thailand"
+  },
+  {
+    "$id": "120",
+    "Code": "670",
+    "Name": "東帝汶",
+    "NameEn": "Timor-Leste"
+  },
+  {
+    "$id": "121",
+    "Code": "216",
+    "Name": "突尼斯",
+    "NameEn": "Tunisia"
+  },
+  {
+    "$id": "122",
+    "Code": "90",
+    "Name": "土耳其",
+    "NameEn": "Turkey"
+  },
+  {
+    "$id": "123",
+    "Code": "993",
+    "Name": "土庫曼",
+    "NameEn": "Turkmenistan"
+  },
+  {
+    "$id": "124",
+    "Code": "256",
+    "Name": "烏干達",
+    "NameEn": "Uganda"
+  },
+  {
+    "$id": "125",
+    "Code": "380",
+    "Name": "烏克蘭",
+    "NameEn": "Ukraine"
+  },
+  {
+    "$id": "126",
+    "Code": "971",
+    "Name": "阿拉伯聯合酋長國",
+    "NameEn": "United Arab Emirates"
+  },
+  {
+    "$id": "127",
+    "Code": "44",
+    "Name": "英國",
+    "NameEn": "United Kingdom of Great Britain and Northern Ireland "
+  },
+  {
+    "$id": "128",
+    "Code": "255",
+    "Name": "坦桑尼亞 ",
+    "NameEn": "United Republic of Tanzania"
+  },
+  {
+    "$id": "129",
+    "Code": "598",
+    "Name": "烏拉圭",
+    "NameEn": "Uruguay"
+  },
+  {
+    "$id": "130",
+    "Code": "998",
+    "Name": "烏茲別克",
+    "NameEn": "Uzbekistan"
+  },
+  {
+    "$id": "131",
+    "Code": "58",
+    "Name": "委內瑞拉",
+    "NameEn": "Venezuela"
+  },
+  {
+    "$id": "132",
+    "Code": "84",
+    "Name": "越南",
+    "NameEn": "Vietnam"
+  },
+  {
+    "$id": "133",
+    "Code": "967",
+    "Name": "也門",
+    "NameEn": "Yemen"
+  },
+  {
+    "$id": "134",
+    "Code": "260",
+    "Name": "贊比亞",
+    "NameEn": "Zambia"
+  },
+  {
+    "$id": "135",
+    "Code": "263",
+    "Name": "津巴布韋",
+    "NameEn": "Zimbabwe"
+  }
+]

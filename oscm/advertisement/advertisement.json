@@ -1,13 +1,4 @@
 {
   "baseUrl": "https://raw.githubusercontent.com/pkkwilliam/github.io-contents/master/oscm/advertisement",
-  "images": [
-    {
-      "onClickRedirect": "https://www.suncitygroup.com.mo",
-      "url": "/suncity_group.png"
-    },
-    {
-      "onClickRedirect": "https://www.tikbee.com/",
-      "url": "/tikbee.png"
-    }
-  ]
+  "images": []
 }

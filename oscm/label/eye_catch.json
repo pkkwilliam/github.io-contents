@@ -3,6 +3,10 @@
   "images": [
     {
       "onClick": "DELIVERY",
+      "url": "/macau_fight.png"
+    },
+    {
+      "onClick": "DELIVERY",
       "url": "/delivery.png"
     },
     {

@@ -3,19 +3,11 @@
   "images": [
     {
       "onClick": "DELIVERY",
-      "url": "/macau_fight.png"
-    },
-    {
-      "onClick": "DELIVERY",
       "url": "/delivery.png"
     },
     {
       "onClick": "",
       "url": "/join_us.png"
-    },
-    {
-      "onClick": "",
-      "url": "/our_2_dollor.png"
     },
     {
       "onClick": "TUTORIAL",

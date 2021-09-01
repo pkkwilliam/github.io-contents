@@ -1,4 +1,10 @@
 {
   "baseUrl": "https://raw.githubusercontent.com/pkkwilliam/github.io-contents/master/oscm/advertisement",
-  "images": []
+  "row": [
+    [{ "url": "/suncity_group.png", "onClick": "SHIP_TO_HOME" }],
+    [
+      { "url": "/suncity_group.png", "onClick": "SHIP_TO_HOME" },
+      { "url": "/suncity_group.png", "onClick": "SHIP_TO_HOME" }
+    ]
+  ]
 }

@@ -2,20 +2,8 @@
   "baseUrl": "https://raw.githubusercontent.com/pkkwilliam/github.io-contents/master/oscm/assert/eye_catches",
   "images": [
     {
-      "onClick": "DELIVERY",
-      "url": "/delivery.png"
-    },
-    {
-      "onClick": "",
-      "url": "/join_us.png"
-    },
-    {
-      "onClick": "TUTORIAL",
-      "url": "/tutorial.png"
-    },
-    {
-      "onClick": "",
-      "url": "/72_hour_storage.png"
+      "onClick": "RED_POCKET",
+      "url": "red_pocket.png"
     }
   ]
 }

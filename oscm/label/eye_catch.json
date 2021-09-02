@@ -3,7 +3,7 @@
   "images": [
     {
       "onClick": "RED_POCKET",
-      "url": "red_pocket.png"
+      "url": "/red_pocket.png"
     }
   ]
 }

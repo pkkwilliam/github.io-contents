@@ -1,14 +1,4 @@
 {
   "baseUrl": "https://raw.githubusercontent.com/pkkwilliam/github.io-contents/master/oscm/advertisement",
-  "row": [
-    [{ "url": "/delivery.png", "onClick": "DELIVERY" }],
-    [
-      {
-        "description": "<p><span style=\"font-size:12px\">即日起，泉碧商場站及台山站每日17:30-18:30間取件可享受運費均為3-5元優惠。具體優惠條件如下： </span></p> <p><span style=\"font-size:12px\"><span style=\"color:#fc9405\">活動門店：</span> </span></p> <p><span style=\"font-size:12px\"><u>台山站</u> </span></p> <p><span style=\"font-size:12px\">菜園涌北街175號濠江花園第四座地下K座 6563-0258 </span></p> <p><span style=\"font-size:12px\"><u>祐漢泉碧站</u> </span></p> <p><span style=\"font-size:12px\">祐漢新村第八街85-111號泉碧商場AP舖 6887-8524 </span></p> <p><span style=\"font-size:12px\"><span style=\"color:#fc9405\">活動時間：</span> </span></p> <p><span style=\"font-size:12px\">每日 17:30 - 18:30 取件 (以門店系統時間為準) </span></p> <p><span style=\"font-size:12px\"><span style=\"color:#fc9405\">優惠價格：</span> </span></p> <p><span style=\"font-size:12px\">5公斤實重或體積重以下 (取大者) 運費均 = <strong><span style=\"color:#e03131\">$3</span></strong> </span></p> <p><span style=\"font-size:12px\">10公斤實重或體積重以下 (取大者) 運費均 = <strong><span style=\"color:#e03131\">$4</span></strong> </span></p> <p><span style=\"font-size:12px\">20公斤實重或體積重以下 (取大者) 運費均 = <strong><span style=\"color:#e03131\">$5</span></strong></span><span style=\"font-size:10px\"> </span></p> <p><span style=\"font-size:10px\">*所有包裹享有72小時免費倉儲，超出免費倉儲時間，仍須支付相應倉儲費</span></p> <p><span style=\"font-size:10px\">*本優惠活動最終解釋權歸澳提所有</span></p>",
-        "url": "/345.png",
-        "onClick": "INFO"
-      },
-      { "url": "/1126.png", "onClick": "SHOP_LIST" }
-    ]
-  ]
+  "row": [[{ "url": "/delivery.png", "onClick": "DELIVERY" }]]
 }
